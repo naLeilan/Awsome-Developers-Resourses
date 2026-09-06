@@ -27,6 +27,7 @@ free resources for being web developer and MORE!
 * [AI writing assistant](https://hix.ai/)
 * [AI search engine](https://you.com/)
 * [AI resume builder](https://www.kickresume.com/en/)
+* [ResumeAI](https://withresumeai.com/) - AI resume builder + free ATS checker (State of ATS 2026)
 * [Content creation](https://postwise.ai/)
 * [AI coding assistant](https://www.tabnine.com/)
 * [AI blog posts](https://www.longshot.ai/)
